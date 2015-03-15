@@ -5,7 +5,11 @@ Add Files to your visual studio project with C#
 
 ## Installation
 
+https://www.nuget.org/packages/ProjectVs/
+
 ## Features
+ 
+- add files to a visual studio project
 
 ## Docs & Community
 
