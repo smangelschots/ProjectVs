@@ -18,7 +18,7 @@ Add nuget package
 ```bash  
 PM> Install-Package ProjectVs 
 ```
-Create a class library project called vs to your solution
+Create a class library project called "vs" to your solution
 Open the folder of the vs project
 Add two files called vs1.cs and vs1.child.cs
 Go back to your unit test and in the unittest copy this code
