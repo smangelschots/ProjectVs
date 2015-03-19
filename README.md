@@ -9,7 +9,7 @@ https://www.nuget.org/packages/ProjectVs/
 
 ## Features
  
-- add files to a visual studio project
+- add files to a visual studio project using C#
 
 ## Docs & Community
 
