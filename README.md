@@ -1,8 +1,6 @@
 # ProjectVs
 Start
 
-Add Files to your visual studio project with C#
-
 ## Installation
 
 https://www.nuget.org/packages/ProjectVs/
