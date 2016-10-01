@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using Microsoft.Build.Evaluation;
-using OfficeSoft.Logging;
 
 namespace OfficeSoft.VisualStudio
 {
@@ -34,12 +33,12 @@ namespace OfficeSoft.VisualStudio
             }
             if (string.IsNullOrEmpty(ProjectPath))
             {
-                Log.Add(new LogModel()
-                {
-                    FunctionsName = "GetProject",
-                    LogType = LogType.Warning,
-                    Message = "Project path is missing"
-                });
+                //Log.Add(new LogModel()
+                //{
+                //    FunctionsName = "GetProject",
+                //    LogType = LogType.Warning,
+                //    Message = "Project path is missing"
+                //});
                 return null;
             }
             if (string.IsNullOrEmpty(ProjectName)) { return null; }
@@ -103,7 +102,7 @@ namespace OfficeSoft.VisualStudio
                 Project.Save();
         }
 
-        public static LogModelCollection Log = new LogModelCollection();
+        
 
     }
 }

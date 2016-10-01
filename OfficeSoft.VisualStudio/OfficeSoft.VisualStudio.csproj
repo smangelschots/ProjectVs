@@ -34,8 +34,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Microsoft.Build" />
-    <Reference Include="Microsoft.Build.Engine" />
+    <Reference Include="Microsoft.Build">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Build.Engine">
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -48,12 +52,6 @@
     <Compile Include="BaseProject.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="VisualStudioProject.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\OfficeSoft.Logging\OfficeSoft.Logging.csproj">
-      <Project>{A3B7FFDC-EFF2-4D3C-85CD-047259B5A578}</Project>
-      <Name>OfficeSoft.Logging</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
