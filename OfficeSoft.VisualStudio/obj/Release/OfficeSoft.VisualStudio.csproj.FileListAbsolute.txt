@@ -5,3 +5,11 @@ C:\Projects\OSOFT\OfficeSoft.VisualStudio\bin\Release\OfficeSoft.Logging.pdb
 C:\Projects\OSOFT\OfficeSoft.VisualStudio\obj\Release\OfficeSoft.VisualStudio.csprojResolveAssemblyReference.cache
 C:\Projects\OSOFT\OfficeSoft.VisualStudio\obj\Release\OfficeSoft.VisualStudio.dll
 C:\Projects\OSOFT\OfficeSoft.VisualStudio\obj\Release\OfficeSoft.VisualStudio.pdb
+C:\Documents\GitHub\ProjectVs\OfficeSoft.VisualStudio\bin\Release\OfficeSoft.VisualStudio.dll
+C:\Documents\GitHub\ProjectVs\OfficeSoft.VisualStudio\bin\Release\OfficeSoft.VisualStudio.pdb
+C:\Documents\GitHub\ProjectVs\OfficeSoft.VisualStudio\bin\Release\Microsoft.Build.dll
+C:\Documents\GitHub\ProjectVs\OfficeSoft.VisualStudio\bin\Release\Microsoft.Build.Engine.dll
+C:\Documents\GitHub\ProjectVs\OfficeSoft.VisualStudio\obj\Release\OfficeSoft.VisualStudio.csproj.CoreCompileInputs.cache
+C:\Documents\GitHub\ProjectVs\OfficeSoft.VisualStudio\obj\Release\OfficeSoft.VisualStudio.csproj.CopyComplete
+C:\Documents\GitHub\ProjectVs\OfficeSoft.VisualStudio\obj\Release\OfficeSoft.VisualStudio.dll
+C:\Documents\GitHub\ProjectVs\OfficeSoft.VisualStudio\obj\Release\OfficeSoft.VisualStudio.pdb
